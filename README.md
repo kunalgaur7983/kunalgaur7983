@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunalgaur7983
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning three.js
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me ...
 
 <!---
