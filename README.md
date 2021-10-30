@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kunalgaur7983
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning three.js
+- 📫 How to reach me ...
+
+<!---
+kunalgaur7983/kunalgaur7983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
